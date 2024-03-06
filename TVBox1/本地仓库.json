@@ -1,0 +1,6 @@
+{
+"urls": [
+{"url": "file://TVBox1/自用线路.json","name":"自用线路"},
+{"url": "file://TVBox1/在线仓库.json","name":"在线仓库"}
+]
+}

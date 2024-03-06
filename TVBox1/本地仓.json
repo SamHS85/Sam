@@ -1,0 +1,6 @@
+{
+"urls": [
+{"url": "clan://localhost/TVBox1/自用线路.json","name":"自用线路"},
+{"url": "clan://localhost/TVBox1/普通线路.json","name":"普通线路"}
+]
+}
