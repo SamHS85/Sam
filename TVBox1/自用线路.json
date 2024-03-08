@@ -1,5 +1,5 @@
 {
-    "wallpaper": "http://127.0.0.1:9978/file/本地包备份/手机壁纸.jpg",
+    "wallpaper": "./壁纸/电视壁纸.jpg",
     "spider": "./pg.jar",
     "sites": [
 		{
@@ -250,6 +250,21 @@
             },
             "timeout": 25
         },
+{
+    "key": "csp_AiPanSou",
+    "name": "🥰爱盘搜┃搜索【☯️】",
+    "type": 3,
+    "api": "csp_AiPanSou",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 0,
+    "ext": {
+        "cookie": "./TV/quark_cookie.txt",
+        "danmu": true
+    },
+    "timeout": 15,
+    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
+},
         {
             "key": "盘友圈",
             "name": "🤤丨盘友圈【☣️】",
@@ -258,6 +273,29 @@
             "timeout": 60,
             "ext": "./lib/tokenm.json"
         },
+{
+    "key": "Xpanpan",
+    "name": "🤤小盘盘|网盘【☣️】",
+    "type": 3,
+    "api": "csp_Xpanpan",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "timeout": 60,
+    "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"
+},
+{
+    "key": "易搜",
+    "name": "🛸易搜┃网盘【☣️】",
+    "type": 3,
+    "api": "csp_YiSo",
+    "changeable": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "./lib/tokenm.json$$$satoken=83536a1e-4b96-4a86-96c9-51550ade43fc",
+    "timeout": 60
+},
         {
             "key": "校长影视",
             "name": "🔔丨校长影视【☣️】",
@@ -587,8 +625,8 @@
             "filterable":1,
             "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
-                "token": "file://TVBox1/jar/ali_token.txt",
-                "cookie": "file://TVBox1/jar/quark_cookie.txt",
+                "token": "./jar/ali_token.txt",
+                "cookie": "./jar/quark_cookie.txt",
                 "site": "https://aliz.lvdoui.top",
                 "danmu" : true
             },
@@ -732,7 +770,7 @@
         }
     ],
     "lives": [
-    {"name": "自用直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/自用直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "自用直播","type": 0,"url": "./tv/自用直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "唐三国际直播",
             "type": 0,
@@ -778,8 +816,8 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-    {"name": "晴天直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/晴天直播2.1.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "自用直播2","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/自用直播2.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "晴天直播","type": 0,"url": "./tv/晴天直播2.1.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "自用直播2","type": 0,"url": "./tv/自用直播2.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "春盈天下直播",
             "type": 0,
@@ -789,11 +827,11 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-    {"name": "饭总直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/饭总直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "cally直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/cally直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "运输车直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/运输车直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "分享者直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/分享者直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "喵影视直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/喵影视直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "饭总直播","type": 0,"url": "./tv/饭总直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "cally直播","type": 0,"url": "./tv/cally直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "运输车直播","type": 0,"url": "./tv/运输车直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "分享者直播","type": 0,"url": "./tv/分享者直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "喵影视直播","type": 0,"url": "./tv/喵影视直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "🚀IPV6🚀",
             "type": 0,
@@ -803,7 +841,7 @@
         {
             "name": "🚀IPV4🚀",
             "type": 0,
-            "url": "http://127.0.0.1:9978/file/TVBox1/tv/live.txt",
+            "url": "./tv/live.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
