@@ -1,0 +1,7 @@
+{
+"urls": [
+{"url": "./自用线路.json","name":"自用线路"},
+{"url": "./jsm.json","name":"PG"},
+{"url": "./在线仓库.json","name":"在线仓库"}
+]
+}
