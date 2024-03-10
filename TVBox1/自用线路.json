@@ -1,7 +1,17 @@
 {
-    "wallpaper": "./壁纸/电视壁纸.jpg",
+    "wallpaper": "http://127.0.0.1:9978/file/本地包备份/手机壁纸.jpg",
     "spider": "./pg.jar",
     "sites": [
+       {
+          "key": "lf_js_search",
+          "name": "🍀主页🍀 | 路飞豆瓣",
+          "type": 3,
+          "searchable": 0,
+          "changeable": 0,
+          "quickSearch": 0,
+          "indexs": 1,
+          "api": "./js/lf_search3_min.js"
+        },
 		{
 			"key": "豆瓣",
 			"name": "🍀主页🍀|豆瓣",
@@ -265,6 +275,23 @@
     "timeout": 15,
     "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
 },
+        {
+            "key":"土豆网盘弹幕",
+            "name":"🥔土豆┃4K弹幕【☯️】",
+            "type":3,
+            "api":"csp_Wobg",
+            "quickSearch":1,
+            "changeable":1,
+            "filterable":1,
+            "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+                "site": "https://aliz.lvdoui.top",
+                "danmu" : true
+            },
+            "timeout": 25
+        },
         {
             "key": "盘友圈",
             "name": "🤤丨盘友圈【☣️】",
@@ -587,6 +614,20 @@
             }, 
             "timeout": 10
         },
+{
+    "key": "酷看弹幕版",
+    "name": "😎酷看┃弹幕【☯️】",
+    "type": 3,
+    "api": "csp_Kkys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+        "danmu": true
+    },
+    "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+    "timeout": 20
+},
         {
             "key":"厂长弹幕版",
             "name":"🌸厂长┃解析【☯️】",
@@ -614,23 +655,6 @@
                 "danmu": true
             }, 
             "timeout": 10
-        },
-        {
-            "key":"土豆网盘弹幕",
-            "name":"🥔土豆┃4K弹幕【☯️】",
-            "type":3,
-            "api":"csp_Wobg",
-            "quickSearch":1,
-            "changeable":1,
-            "filterable":1,
-            "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
-            "ext": {
-                "token": "file://TVBox1/jar/ali_token.txt",
-                "cookie": "file://TVBox1/jar/quark_cookie.txt",
-                "site": "https://aliz.lvdoui.top",
-                "danmu" : true
-            },
-            "timeout": 25
         },
         {
             "key":"️爱看Bot弹幕版",
