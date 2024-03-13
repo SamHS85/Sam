@@ -7,7 +7,7 @@
           "name": "🍀主页🍀 | 路飞豆瓣",
           "type": 3,
           "searchable": 0,
-          "changeable": 0,
+          "changeable": 1,
           "quickSearch": 0,
           "indexs": 1,
           "api": "./js/lf_search3_min.js"
@@ -252,7 +252,7 @@
             "api": "csp_Qkpanso",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
@@ -267,7 +267,7 @@
     "api": "csp_AiPanSou",
     "searchable": 1,
     "filterable": 1,
-    "changeable": 0,
+    "changeable": 1,
     "ext": {
         "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
         "danmu": true
@@ -316,7 +316,7 @@
     "name": "🛸易搜┃网盘【☣️】",
     "type": 3,
     "api": "csp_YiSo",
-    "changeable": 2,
+    "changeable": 1,
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
@@ -725,12 +725,12 @@
 			"name": "JustLive",
 			"type": 3,
 			"api": "csp_JustLive",
-			"searchable": 1,
+			"searchable": 0,
 			"changeable": 0
 		},
  {
     "key": "JustLivejs",
-    "name": "JustLive抖音",
+    "name": "JustLive1",
     "type": 3,
     "api": "./js/apiv421drpy1.min.js",
     "style": {
@@ -768,7 +768,7 @@
     "ext": "./js/斗鱼直播.js"
 },
     {"key":"快手直播","name":"😎快手┃直播","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"timeout":10,"jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"},
-{"key": "csp_Kanqiu","name": "⚽88看球","type": 3,"api": "csp_Kanqiu","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style":{"type":"list"}},
+{"key": "csp_Kanqiu","name": "⚽看球","type": 3,"api": "csp_Kanqiu","searchable": 0,"quickSearch": 0,"filterable": 1,"changeable": 0,"style":{"type":"list"}},
  {
     "key": "JRKAN球迷js",
     "name": "⚽JRKAN直播",
@@ -781,6 +781,19 @@
     "searchable": 0,
     "changeable": 0,
     "ext": "./js/JRKAN直播.js"
+},
+ {
+    "key": "88看球js",
+    "name": "⚽88看球",
+    "type": 3,
+    "api": "./js/apiv421drpy1.min.js",
+    "style": {
+        "type": "list",
+        "ratio": 1.7
+    },
+    "searchable": 0,
+    "changeable": 0,
+    "ext": "./js/88看球.js"
 },
         {
             "key": "csp_zhaifu",
