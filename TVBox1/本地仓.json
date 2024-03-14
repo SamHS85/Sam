@@ -2,6 +2,7 @@
 "urls": [
 {"url": "clan://localhost/TVBox1/自用线路.json","name":"自用线路"},
 {"url": "clan://localhost/TVBox1/jsm.json","name":"PG"},
-{"url": "clan://localhost/TVBox1/在线仓库.json","name":"在线仓库"}
+{"url": "clan://localhost/TVBox1/在线仓库.json","name":"在线仓库"},
+{"url": "clan://localhost/TVBox1/18.json","name":"🔞"}
 ]
 }

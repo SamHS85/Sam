@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://127.0.0.1:9978/file/本地包备份/手机壁纸.jpg",
-    "spider": "./pg.jar",
+    "spider": "./jar/pg.jar",
     "sites": [
        {
           "key": "lf_js_search",
