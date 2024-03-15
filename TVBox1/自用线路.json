@@ -4,7 +4,7 @@
     "sites": [
        {
           "key": "lf_js_search",
-          "name": "🍀主页🍀 | 路飞豆瓣",
+          "name": "🍀主页🍀┃路飞豆瓣",
           "type": 3,
           "searchable": 0,
           "changeable": 1,
@@ -14,7 +14,7 @@
         },
 		{
 			"key": "豆瓣",
-			"name": "🍀主页🍀|豆瓣",
+			"name": "🍀主页🍀┃豆瓣",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
@@ -24,7 +24,7 @@
 		},
         {
             "key": "配置中心",
-            "name": "☯️OK | 配置☯️",
+            "name": "OK┃配置🆗",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -37,7 +37,7 @@
         },
         {
             "key": "网盘配置",
-            "name": "☣️PG | 配置☣️",
+            "name": "PG┃配置🅿️",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -46,7 +46,7 @@
         },
         {
             "key": "玩偶弹幕版",
-            "name": "👽丨玩偶哥哥【☯️】",
+            "name": "👽┃玩偶哥哥🆗",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -61,7 +61,7 @@
         },
         {
             "key": "玩偶表哥弹幕",
-            "name": "🤖丨玩偶弟弟【☯️】",
+            "name": "🤖┃玩偶弟弟🆗",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -76,7 +76,7 @@
         },
         {
             "key": "Wogg",
-            "name": "👻丨玩偶表哥【☣️】",
+            "name": "👻┃玩偶表哥🅿️",
             "type": 3,
             "api": "csp_Wogg",
             "quickSearch": 1,
@@ -87,7 +87,7 @@
         },
         {
             "key": "Wobg",
-            "name": "👿丨玩偶表弟【☣️】",
+            "name": "👿┃玩偶表弟🅿️",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -98,7 +98,7 @@
         },
         {
             "key": "云盘4k弹幕版",
-            "name": "🌩️丨云盘4K【☯️】",
+            "name": "🌩️┃云盘4K🆗",
             "type": 3,
             "api": "csp_Yunpan4k",
             "searchable": 1,
@@ -112,7 +112,7 @@
         },
         {
             "key": "我哥哥弹幕",
-            "name": "🎭丨Wo哥哥【☯️】",
+            "name": "🎭┃Wo哥哥🆗",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -129,7 +129,7 @@
         },
         {
             "key": "运输车弹幕版",
-            "name": "🚚丨运输 车【☯️】",
+            "name": "🚚┃运输 车🆗",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -146,7 +146,7 @@
         },
         {
             "key": "纸条弹幕版",
-            "name": "♻️丨纸条ali【☯️】",
+            "name": "♻️┃纸条ali🆗",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
@@ -160,7 +160,7 @@
         },
         {
             "key": "盘Se弹幕版",
-            "name": "🌀丨盘Seali【☯️】",
+            "name": "🌀┃盘Seali🆗",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -174,7 +174,7 @@
         },
         {
             "key": "七夜弹幕版",
-            "name": "🌓丨七夜ali【☯️】",
+            "name": "🌓┃七夜ali🆗",
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
@@ -188,7 +188,7 @@
         },
         {
             "key": "盘搜弹幕版",
-            "name": "⭕丨盘搜ali【☯️】",
+            "name": "⭕┃盘搜ali🆗",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -202,7 +202,7 @@
         },
         {
             "key": "易搜弹幕版",
-            "name": "💯丨易搜ali【☯️】",
+            "name": "💯┃易搜ali🆗",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -216,7 +216,7 @@
         },
         {
             "key": "csp_QuPanSou",
-            "name": "👀丨趣搜 盘【☯️】",
+            "name": "👀┃趣搜 盘🆗",
             "type": 3,
             "api": "csp_QuPanSou",
             "searchable": 1,
@@ -231,7 +231,7 @@
         },
         {
             "key": "团长弹幕版",
-            "name": "🎖️丨团长4K【☯️】",
+            "name": "🎖️┃团长4K🆗",
             "type": 3,
             "api": "csp_Tzfile",
             "searchable": 1,
@@ -247,7 +247,7 @@
         },
         {
             "key": "csp_Qkpanso",
-            "name": "🐚丨夸克 搜【☯️】",
+            "name": "🐚┃夸克 搜🆗",
             "type": 3,
             "api": "csp_Qkpanso",
             "searchable": 1,
@@ -262,7 +262,7 @@
         },
 {
     "key": "csp_AiPanSou",
-    "name": "🥰爱盘搜┃搜索【☯️】",
+    "name": "🥰爱盘搜┃搜索🆗",
     "type": 3,
     "api": "csp_AiPanSou",
     "searchable": 1,
@@ -277,7 +277,7 @@
 },
         {
             "key":"土豆网盘弹幕",
-            "name":"🥔土豆┃4K弹幕【☯️】",
+            "name":"🥔土豆┃4K弹幕🆗",
             "type":3,
             "api":"csp_Wobg",
             "quickSearch":1,
@@ -294,7 +294,7 @@
         },
         {
             "key": "盘友圈",
-            "name": "🤤丨盘友圈【☣️】",
+            "name": "🤤┃盘友圈🅿️",
             "type": 3,
             "api": "csp_Panyq",
             "timeout": 60,
@@ -302,7 +302,7 @@
         },
 {
     "key": "Xpanpan",
-    "name": "🤤小盘盘|网盘【☣️】",
+    "name": "🤤小盘盘┃网盘🅿️",
     "type": 3,
     "api": "csp_Xpanpan",
     "quickSearch": 1,
@@ -313,7 +313,7 @@
 },
 {
     "key": "易搜",
-    "name": "🛸易搜┃网盘【☣️】",
+    "name": "🛸易搜┃网盘🅿️",
     "type": 3,
     "api": "csp_YiSo",
     "changeable": 1,
@@ -325,7 +325,7 @@
 },
         {
             "key": "校长影视",
-            "name": "🔔丨校长影视【☣️】",
+            "name": "🔔┃校长影视🅿️",
             "type": 3,
             "api": "csp_XiaoZhang",
             "quickSearch": 1,
@@ -336,7 +336,7 @@
         },
         {
             "key": "团长资源",
-            "name": "✨丨团长资源【☣️】",
+            "name": "✨┃团长资源🅿️",
             "type": 3,
             "api": "csp_TZFile",
             "quickSearch": 1,
@@ -347,7 +347,7 @@
         },
         {
             "key": "Funletu",
-            "name": "🎡丨趣盘 搜【☣️】",
+            "name": "🎡┃趣盘 搜🅿️",
             "type": 3,
             "api": "csp_Funletu",
             "quickSearch": 1,
@@ -358,7 +358,7 @@
         },
         {
             "key": "QuarkPanso",
-            "name": "🔆丨夸克 盘【☣️】",
+            "name": "🔆┃夸克 盘🅿️",
             "type": 3,
             "api": "csp_QuarkPanso",
             "quickSearch": 1,
@@ -369,7 +369,7 @@
         },
         {
             "key": "盘搜",
-            "name": "⭕丨盘搜 盘【☣️】",
+            "name": "⭕┃盘搜 盘🅿️",
             "type": 3,
             "api": "csp_PanSou",
             "timeout": 30,
@@ -377,7 +377,7 @@
         },
         {
             "key": "易搜",
-            "name": "💯丨易搜 盘【☣️】",
+            "name": "💯┃易搜 盘🅿️",
             "type": 3,
             "api": "csp_YiSo",
             "timeout": 30,
@@ -385,7 +385,7 @@
         },
         {
             "key": "混合盘",
-            "name": "💽丨混合 盘【☣️】",
+            "name": "💽┃混合 盘🅿️",
             "type": 3,
             "api": "csp_HunHePan",
             "timeout": 30,
@@ -393,7 +393,7 @@
         },
         {
             "key": "PanSearch",
-            "name": "👀丨盘Se 盘【☣️】",
+            "name": "👀┃盘Se 盘🅿️",
             "type": 3,
             "api": "csp_PanSearch",
             "quickSearch": 1,
@@ -404,7 +404,7 @@
         },
         {
             "key": "影视车",
-            "name": "🛵丨影视 车【☣️】",
+            "name": "🛵┃影视 车🅿️",
             "type": 3,
             "api": "csp_Wogg",
             "quickSearch": 1,
@@ -415,7 +415,7 @@
         },
         {
             "key": "Hdhive",
-            "name": "🌐丨影巢 盘【☣️】",
+            "name": "🌐┃影巢 盘🅿️",
             "type": 3,
             "api": "csp_Hdhive",
             "quickSearch": 1,
@@ -426,7 +426,7 @@
         },
         {
             "key": "Ppxzy",
-            "name": "🦐丨皮皮 虾【☣️】",
+            "name": "🦐┃皮皮 虾🅿️",
             "type": 3,
             "api": "csp_Ppxzy",
             "quickSearch": 1,
@@ -437,7 +437,7 @@
         },
         {
             "key": "Libvio",
-            "name": "💦丨利播 盘【☣️】",
+            "name": "💦┃利播 盘🅿️",
             "type": 3,
             "api": "csp_Libvio",
             "quickSearch": 1,
@@ -448,7 +448,7 @@
         },
         {
             "key": "88Pan",
-            "name": "🚀丨88 盘【☣️】",
+            "name": "🚀┃88 盘🅿️",
             "type": 3,
             "api": "csp_EightEight",
             "timeout": 30,
@@ -456,7 +456,7 @@
         },
         {
             "key": "秒搜",
-            "name": "💨丨秒搜 盘【☣️】",
+            "name": "💨┃秒搜 盘🅿️",
             "type": 3,
             "api": "csp_MiaoSou",
             "timeout": 30,
@@ -464,7 +464,7 @@
         },
         {
             "key": "Panta",
-            "name": "⛵丨移动 盘【☣️】",
+            "name": "⛵┃移动 盘🅿️",
             "type": 3,
             "api": "csp_Panta",
             "quickSearch": 1,
@@ -475,7 +475,7 @@
         },
         {
             "key": "DaPanSo",
-            "name": "💿丨大盘 搜【☣️】",
+            "name": "💿┃大盘 搜🅿️",
             "type": 3,
             "api": "csp_DaPanSo",
             "quickSearch": 1,
@@ -486,7 +486,7 @@
         },
         {
             "key": "PikaSo",
-            "name": "🚘丨皮卡 盘【☣️】",
+            "name": "🚘┃皮卡 盘🅿️",
             "type": 3,
             "api": "csp_PikaSo",
             "quickSearch": 1,
@@ -497,7 +497,7 @@
         },
         {
             "key": "YunSo",
-            "name": "🌨️丨小云 盘【☣️】",
+            "name": "🌨️┃小云 盘🅿️",
             "type": 3,
             "api": "csp_YunSo",
             "quickSearch": 1,
@@ -508,7 +508,7 @@
         },
         {
             "key": "YunPanOne",
-            "name": "☁️丨云盘 搜【☣️】",
+            "name": "☁️┃云盘 搜🅿️",
             "type": 3,
             "api": "csp_YunPanOne",
             "quickSearch": 1,
@@ -519,7 +519,7 @@
         },
         {
             "key": "Gitcafe",
-            "name": "♻️丨纸条 盘【☣️】",
+            "name": "♻️┃纸条 盘🅿️",
             "type": 3,
             "api": "csp_Gitcafe",
             "searchable": 1,
@@ -530,7 +530,7 @@
         },
         {
             "key": "新6V",
-            "name": "💢丨6V 盘【☣️】",
+            "name": "💢┃6V 盘🅿️",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
@@ -540,7 +540,7 @@
         },
         {
             "key": "UP云搜",
-            "name": "☝🏻️丨UP盘 搜【☣️】",
+            "name": "☝🏻️┃UP盘 搜🅿️",
             "type": 3,
             "api": "csp_UpYun",
             "timeout": 30,
@@ -548,7 +548,7 @@
         },
         {
             "key": "AliShare",
-            "name": "🦊丨阿里分享【☣️】",
+            "name": "🦊┃阿里分享🅿️",
             "type": 3,
             "api": "csp_AliShare",
             "searchable": 1,
@@ -560,7 +560,7 @@
         },
         {
             "key": "QuarkShare",
-            "name": "🌀丨夸克分享【☣️】",
+            "name": "🌀┃夸克分享🅿️",
             "type": 3,
             "api": "csp_QuarkShare",
             "searchable": 1,
@@ -572,7 +572,7 @@
         },
         {
             "key": "ThunderShare",
-            "name": "🐬丨迅雷分享【☣️】",
+            "name": "🐬┃迅雷分享🅿️",
             "type": 3,
             "api": "csp_ThunderShare",
             "style": {
@@ -587,7 +587,7 @@
         },
         {
             "key": "AliShareEBook",
-            "name": "📚丨阿狸 阅【☣️】",
+            "name": "📚┃阿狸 阅🅿️",
             "type": 3,
             "api": "csp_AliShare",
             "style": {
@@ -602,7 +602,7 @@
         },
         {
             "key":"南瓜弹幕版",
-            "name":"🎃南瓜┃解析【☯️】",
+            "name":"🎃南瓜┃采集🆗",
             "type": 3,
             "api":"csp_Nangua",
             "searchable":1,
@@ -616,7 +616,7 @@
         },
 {
     "key": "酷看弹幕版",
-    "name": "😎酷看┃弹幕【☯️】",
+    "name": "😎酷看┃采集🆗",
     "type": 3,
     "api": "csp_Kkys",
     "searchable": 1,
@@ -630,7 +630,7 @@
 },
         {
             "key":"厂长弹幕版",
-            "name":"🌸厂长┃解析【☯️】",
+            "name":"🌸厂长┃采集🆗",
             "type": 3,
             "api":"csp_Czzy",
             "searchable":1,
@@ -644,7 +644,7 @@
         },
         {
             "key":"天天弹幕版",
-            "name":"⛅️天天┃解析【☯️】",
+            "name":"⛅️天天┃采集🆗",
             "type": 3,
             "api":"csp_TianTian",
             "searchable":1,
@@ -658,7 +658,7 @@
         },
         {
             "key":"️爱看Bot弹幕版",
-            "name":"⛅️爱看Bot | 解析【☯️】",
+            "name":"⛅️爱看Bot┃采集🆗",
             "type": 3,
             "api":"csp_Ikanbot",
             "searchable":1,
@@ -672,7 +672,7 @@
         },
         {
             "key":"sp360",
-            "name":"🐛360 | 解析【☯️】",
+            "name":"🐛360┃采集🆗",
             "type":3,
             "api":"csp_Sp360",
             "searchable":1,
@@ -686,7 +686,7 @@
         },
         {
 			"key": "NanGua",
-			"name": "🎃南瓜 | 解析【☣️】",
+			"name": "🎃南瓜┃采集🅿️",
 			"type": 3,
 			"api": "csp_NanGua",
 			"searchable": 1,
@@ -695,31 +695,31 @@
 		},
 	    {
 			"key": "天天",
-			"name": "⛅️天天┃解析【☣️】",
+			"name": "⛅️天天┃采集🅿️",
 			"type": 3,
 			"api": "csp_TTian",
 			"playerType": 1,
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
-		{"key":"Moli","name":"🌸HDmoli|网盘【☣️】","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"},
+		{"key":"Moli","name":"🌸HDmoli┃网盘🅿️","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"},
 	    {
 			"key": "追剧",
-			"name": "💿追剧┃App【☣️】",
+			"name": "💿追剧┃采集🅿️",
 			"type": 3,
 			"api": "csp_TTian",
 			"playerType": 1,
 			"ext": "http://app.kzjtv.com$$$null$$$1"
 		},
-        {"key":"Zhuiyitv","name":"💿追忆|App【☣️】","type":3,"api":"csp_Zhuiyitv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
+        {"key":"Zhuiyitv","name":"💿追忆┃采集🅿️","type":3,"api":"csp_Zhuiyitv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
 		{
 			"key": "tvbsk",
-			"name": "💿TVB云播┃App【☣️】",
+			"name": "💿TVB云播┃采集🅿️",
 			"type": 3,
 			"api": "csp_Skapp",
 			"playerType": 2,
 			"ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
 		},
-		{"key":"Bt0","name":"💿不太灵|磁力【☣️】","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
+		{"key":"Bt0","name":"💿不太灵┃磁力🅿️","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
 		{
 			"key": "JustLive",
 			"name": "JustLive",
@@ -743,7 +743,7 @@
 },
 {
     "key": "虎牙直播js",
-    "name": "🐯 | 虎牙直播 | huya",
+    "name": "🐯┃虎牙直播┃huya",
     "type": 3,
     "api": "./js/apiv421drpy1.min.js",
     "style": {
@@ -756,7 +756,7 @@
 },
 {
     "key": "斗鱼直播js",
-    "name": "🐠 | 斗鱼直播 | douyu",
+    "name": "🐠┃斗鱼直播┃douyu",
     "type": 3,
     "api": "./js/apiv421drpy1.min.js",
     "style": {
@@ -797,7 +797,7 @@
 },
         {
             "key": "csp_zhaifu",
-            "name": "🐾丨宅腐bl【♋】",
+            "name": "🐾┃宅腐bl【♋】",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -899,7 +899,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-    {"name": "晴天直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/晴天直播2.1.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "晴天直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/晴天直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
     {"name": "自用直播2","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/自用直播2.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "春盈天下直播",
