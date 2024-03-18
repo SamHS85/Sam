@@ -1,5 +1,5 @@
 {
-    "wallpaper": "http://127.0.0.1:9978/file/本地包备份/手机壁纸.jpg",
+    "wallpaper": "./壁纸/手机壁纸.jpg",
     "spider": "./jar/pg.jar",
     "sites": [
        {
@@ -807,7 +807,7 @@
         }
     ],
     "lives": [
-    {"name": "自用直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/自用直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "自用直播","type": 0,"url": "./tv/自用直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "自用直播3",
             "type": 0,
@@ -836,6 +836,15 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
+            "name": "看电视呗直播(备2)",
+            "type": 0,
+            "url": "http://mywlkj.ddns.net:754/tv.php",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "港澳台直播",
             "type": 0,
             "url": "https://cloud.lxweb.cn/f/aR8Pf6/miaokai0314.m3u",
@@ -844,7 +853,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-    {"name": "港澳台秒播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/港澳台秒播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "港澳台秒播","type": 0,"url": "./tv/港澳台秒播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "唐三国际直播",
             "type": 0,
@@ -881,6 +890,8 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+    {"name": "糖意TV直播","type": 0,"url": "./tv/糖意TV直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "6969直播","type": 0,"url": "./tv/6969直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "猫TV直播",
             "type": 0,
@@ -908,8 +919,8 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-    {"name": "晴天直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/晴天直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "自用直播2","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/自用直播2.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "晴天直播","type": 0,"url": "./tv/晴天直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "自用直播2","type": 0,"url": "./tv/自用直播2.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "春盈天下直播",
             "type": 0,
@@ -920,10 +931,10 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
     {"name": "饭太硬直播","type": 0,"url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "cally直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/cally直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "运输车直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/运输车直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "分享者直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/分享者直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "喵影视直播","type": 0,"url": "http://127.0.0.1:9978/file/TVBox1/tv/喵影视直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "cally直播","type": 0,"url": "./tv/cally直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "运输车直播","type": 0,"url": "./tv/运输车直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "分享者直播","type": 0,"url": "./tv/分享者直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "喵影视直播","type": 0,"url": "./tv/喵影视直播.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "🚀IPV6🚀",
             "type": 0,
@@ -933,7 +944,7 @@
         {
             "name": "🚀IPV4🚀",
             "type": 0,
-            "url": "http://127.0.0.1:9978/file/TVBox1/tv/live.txt",
+            "url": "./tv/live.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
