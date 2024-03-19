@@ -1,7 +1,7 @@
 {
 "urls": [
-{"url": "clan://localhost/TVBox1/自用线路.json","name":"自用线路"},
-{"url": "clan://localhost/TVBox1/jsm.json","name":"PG"},
-{"url": "clan://localhost/TVBox1/18.json","name":"🔞"}
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SamHS85/Sam/TVBox/TVBox1/自用线路.json","name":"自用线路"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SamHS85/Sam/TVBox/TVBox1/jsm.json","name":"PG"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SamHS85/Sam/TVBox/TVBox1/18.json","name":"🔞"}
 ]
 }
