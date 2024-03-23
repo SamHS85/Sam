@@ -629,6 +629,20 @@
             "timeout": 20
         },
         {
+            "key": "白嫖弹幕版",
+            "name": "🦄白嫖┃采集🆗",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+            "danmu": true
+            },
+            "timeout": 25,
+            "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
+        },
+        {
             "key":"厂长弹幕版",
             "name":"🌸厂长┃采集🆗",
             "type": 3,
@@ -885,6 +899,15 @@
             "name": "糖意TV直播",
             "type": 0,
             "url": "https://raw.gitcode.com/tytv/ty2024/raw/main/糖意",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "龙TV直播",
+            "type": 0,
+            "url": "https://d.kstore.space/download/7337/%E9%BE%99TV/log",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
