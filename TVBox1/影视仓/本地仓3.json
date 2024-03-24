@@ -1,0 +1,6 @@
+{
+"storeHouse": [
+{"sourceUrl": "clan://localhost/TVBox1/本地仓2.json","sourceName":"自用线路"},
+{"sourceUrl": "clan://localhost/TVBox1/在线仓库.json","sourceName":"在线仓库"}
+]
+}
