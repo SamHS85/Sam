@@ -130,6 +130,22 @@
             "timeout": 25
         },
         {
+            "key": "玩他网盘",
+            "name": "🤡玩他┃网盘🆗",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,            
+            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+                "site": "https://tv.yydsys.top",
+                "danmu": true
+            }
+        },
+        {
             "key": "运输车弹幕版",
             "name": "🚚┃运输 车🆗",
             "type": 3,
@@ -297,10 +313,67 @@
             "ext": {
             "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
             "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
-            "site": "https://aliz.lvdoui.top",
+            "site": "https://tudou.lvdoui.top",
             "danmu" : true
             },
             "timeout": 25
+        },
+        {
+            "key": "影搜",
+            "name": "🌸影搜┃搜索🆗",
+            "type": 3,
+            "api": "csp_Yingso",
+            "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+            "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+            "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+            "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "我哥网盘",
+            "name": "🧑🏻┃我哥🅿️",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://www.ttkx.live:3328$$$null$$$1$$$./lib/wogg.json"
+        },
+        {
+            "key": "玩你网盘",
+            "name": "🤡玩你┃网盘🅿️",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$null$$$1$$$./lib/wogg.json"
+        },
+        {
+            "key": "Moli",
+            "name": "🌸HDmoli┃网盘🅿️",
+            "type": 3,
+            "api": "csp_Moli",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"
+        },
+        {
+            "key": "YunPan",
+            "name": "☁️云盘资源┃网盘🅿️",
+            "type": 3,
+            "api": "csp_YunPan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
         },
         {
             "key": "盘友圈",
@@ -533,7 +606,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json"
+            "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
         },
         {
             "key": "Gitcafe",
@@ -733,17 +806,6 @@
 			"playerType": 1,
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
-        {
-            "key": "Moli",
-            "name": "🌸HDmoli┃网盘🅿️",
-            "type": 3,
-            "api": "csp_Moli",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"
-        },
 	    {
 			"key": "追剧",
 			"name": "💿追剧┃采集🅿️",
@@ -781,6 +843,20 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "null$$$null$$$1"
+        },
+        {
+            "key": "荐片弹幕版",
+            "name": "⚔️荐片┃手机🆗",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+            "danmu": true
+            },
+            "timeout": 20
         },
 		{
 			"key": "JustLive",
