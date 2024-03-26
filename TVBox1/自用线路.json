@@ -55,6 +55,7 @@
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
                 "filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
                 "danmu": true
             }
@@ -107,6 +108,7 @@
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
                 "danmu": true
             }
         },
@@ -155,6 +157,7 @@
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
                 "danmu": true
             }
         },
@@ -169,6 +172,7 @@
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
                 "danmu": true
             }
         },
@@ -183,6 +187,7 @@
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
                 "token":"http://127.0.0.1:9978/file/TV/ali_token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
                 "danmu": true
             }
         },
@@ -197,6 +202,7 @@
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
                 "danmu": true
             }
         },
@@ -211,6 +217,7 @@
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
                 "danmu": true
             }
         },
@@ -224,6 +231,7 @@
             "changeable": 1,
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
+                "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
                 "danmu": true
             },
@@ -255,6 +263,7 @@
             "changeable": 1,
             "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
             "ext": {
+                "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
                 "danmu": true
             },
@@ -269,6 +278,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
+            "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
             "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
             "danmu": true
             },
@@ -918,24 +928,6 @@
         {
             "name": "看电视呗直播",
             "type": 0,
-            "url": "http://tvbox6.com/tv.php",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "看电视呗直播(备)",
-            "type": 0,
-            "url": "http://mywlkj.ddns.net:754/tvbox6.php",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "看电视呗直播(备2)",
-            "type": 0,
             "url": "http://mywlkj.ddns.net:754/tv.php",
             "playerType": 1,
             "ua": "okhttp/3.15",
@@ -943,63 +935,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "港澳台直播",
-            "type": 0,
-            "url": "https://cloud.lxweb.cn/f/aR8Pf6/miaokai0314.m3u",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "港澳台秒播",
             "type": 0,
-            "url": "./tv/港澳台秒播.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "唐三国际直播",
-            "type": 0,
-            "url": "https://tang.serv00.net/zb/99?token=38b877fc",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "唐三直播1",
-            "type": 0,
-            "url": "https://tang.serv00.net/zb/2",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "唐三直播2",
-            "type": 0,
-            "url": "https://tang.serv00.net/zb/3",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "港澳台秒播",
-            "type": 0,
-            "url": "https://gitee.com/sangni2024/mingge/raw/master/1.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "6969直播",
-            "type": 0,
-            "url": "./tv/6969直播.txt",
+            "url": "https://gitee.com/sangni2024/mingge/raw/master/9527.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1008,7 +946,7 @@
         {
             "name": "猫TV直播",
             "type": 0,
-            "url": "http://rihou.cc:555/gggg.nzk",
+            "url": "https://d.kstore.space/download/2883/20240210.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1033,9 +971,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "V6直播2",
+            "name": "分享者直播",
             "type": 0,
-            "url": "https://gitee.com/zhuyuxian/cyys/raw/master/live20220813.txt",
+            "url": "https://agit.ai/66666/mao/raw/commit/c56732367bd5354a7b33c5b09c11b113b99b51ca/live20220813.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1080,7 +1018,7 @@
         {
             "name": "cally直播",
             "type": 0,
-            "url": "./tv/cally直播.txt",
+            "url": "https://d.kstore.space/download/2883/20240210.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1089,25 +1027,16 @@
         {
             "name": "运输车直播",
             "type": 0,
-            "url": "./tv/运输车直播.txt",
+            "url": "https://weixine.net/tv/ysclive.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "分享者直播",
+            "name": "恒星直播",
             "type": 0,
-            "url": "./tv/分享者直播.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "喵影视直播",
-            "type": 0,
-            "url": "./tv/喵影视直播.txt",
+            "url": "https://pan.shangui.cc/f/mlqLCb/dsj1.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
