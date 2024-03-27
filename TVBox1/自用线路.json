@@ -346,7 +346,7 @@
             "ext": "./lib/tokenm.json$$$http://www.ttkx.live:3328$$$null$$$1$$$./lib/wogg.json"
         },
         {
-            "key": "玩你网盘",
+            "key": "yydsys",
             "name": "🤡玩你┃网盘🅿️",
             "type": 3,
             "api": "csp_Wobg",
@@ -724,13 +724,14 @@
             "name": "🦄白嫖┃采集🆗",
             "type": 3,
             "api": "csp_Cs1369",
+            "playerType":1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
             "danmu": true
             },
-            "timeout": 25,
+            "timeout": 25,            
             "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
         },
         {
