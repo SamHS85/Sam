@@ -870,6 +870,16 @@
             },
             "timeout": 20
         },
+		{
+			"key": "賤賤",
+			"name": "⚔️荐片┃🅿️",
+			"type": 3,
+			"api": "csp_Jianpian",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./lib/jianpian.json$$$1",
+			"timeout":60
+		},
         {
             "key": "Bt0",
             "name": "🧲不太灵┃🅿️",
