@@ -220,7 +220,7 @@
         },
         {
             "key": "csp_Taohuazu",
-            "name": "🔞Taohuazu",
+            "name": "🔞桃花族",
             "type": 3,
             "api": "csp_Taohuazu",
             "searchable": 1,
@@ -275,14 +275,6 @@
             "changeable":0                        
         },
         {
-            "key": "csp_Miss",
-            "name": "🔞Miss(翻)",
-            "type":3,
-            "api": "csp_Miss",
-            "searchable":1,            
-            "changeable":0                        
-        },
-        {
             "key": "csp_xBPQ_女优",
             "name": "🔞女优(翻)",
             "type": 3,
@@ -311,7 +303,9 @@
             "type": 3,
             "api": "csp_BtSow",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 1,
+            "filterable": 0,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$null$$$null$$$1"
         },
