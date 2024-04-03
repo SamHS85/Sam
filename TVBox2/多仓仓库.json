@@ -1,0 +1,6 @@
+{
+"storeHouse": [
+{"sourceUrl": "./本地仓库1.json","sourceName":"普通线路"},
+{"sourceUrl": "./在线仓库.json","sourceName":"在线仓库"}
+]
+}

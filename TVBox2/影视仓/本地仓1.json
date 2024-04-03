@@ -1,0 +1,6 @@
+{
+"storeHouse": [
+{"sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SamHS85/Sam/TVBox/TVBox2/影视仓/本地仓.json","sourceName":"普通线路"},
+{"sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SamHS85/Sam/TVBox/TVBox2/在线仓库.json","sourceName":"在线仓库"}
+]
+}
